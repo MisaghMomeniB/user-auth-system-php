@@ -19,4 +19,3 @@ try {
     // Display error message and stop execution if connection fails
     die("Connection failed: " . $e->getMessage());
 }
-?>
